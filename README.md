@@ -2,7 +2,7 @@
 
 Welcome to my Tableau Public dashboard project! This repository contains the information and resources related to the interactive dashboard I have published on [Tableau Public](https://public.tableau.com/). You can explore the live dashboard via the link below.
 
-🔗 *Dashboard Link*: [View on Tableau Public]([https://public.tableau.com/your-dashboard-link](https://public.tableau.com/views/covid-19Dashboard_17535409017980/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+🔗 *Dashboard Link*: [View on Tableau Public]([https://public.tableau.com/your-dashboard-link](https://public.tableau.com/views/covid-19Dashboard_17535409017980/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 🧾 Overview
 
